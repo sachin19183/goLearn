@@ -10,7 +10,6 @@ Steps to create a git in local machine and synchronize with github
  we see origin written which represents the remote repo here
 7. Next we add the code in the goLearn folder.after finishing the code, we add the files/folder to git repo (local) via the command git add <filename/folder name>
 8. Next step is to commit the changes in local repo via command git commit <filename> -m "message".
-
 9.once the code is committed, its time to push the changes in github remote.
 The github repo is named main for me(instead of default master)
 hence the command shall be git push origin main
